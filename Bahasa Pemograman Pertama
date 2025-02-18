@@ -1,0 +1,37 @@
+Bahasa pemrograman pertama yang pernah dibuat adalah "Assembly Language" yang muncul sekitar tahun 1940-an. Namun, kalau berbicara tentang bahasa pemrograman tingkat tinggi pertama, itu adalah Fortran, yang dikembangkan pada tahun 1957 oleh John Backus dan timnya di IBM.
+
+1. Assembly Language (1940-an)
+💡 Jenis: Bahasa tingkat rendah
+💡 Digunakan untuk: Pemrograman komputer awal seperti ENIAC dan UNIVAC
+💡 Ciri khas: Menggunakan kode instruksi yang langsung diterjemahkan ke dalam bahasa mesin.
+💡 Contoh kode Assembly:
+
+MOV AX, 4
+ADD AX, 5
+➡ Artinya: Memasukkan angka 4 ke dalam register AX, lalu menambahkannya dengan 5.
+
+Assembly masih digunakan sampai sekarang, terutama untuk sistem embedded dan optimasi performa tinggi.
+
+2. Fortran (1957) – Bahasa Tingkat Tinggi Pertama
+💡 Jenis: Bahasa tingkat tinggi pertama
+💡 Dibuat oleh: John Backus dan tim IBM
+💡 Digunakan untuk: Ilmu pengetahuan, teknik, dan komputasi numerik
+💡 Ciri khas: Lebih mudah dibaca dibanding Assembly, memiliki sintaks seperti matematika.
+💡 Contoh kode Fortran:
+
+PROGRAM HELLO
+    PRINT *, 'Hello, world!'
+END PROGRAM HELLO
+➡ Ini adalah program sederhana untuk menampilkan teks "Hello, world!" di layar.
+
+Fortran masih digunakan dalam komputasi ilmiah, pemodelan cuaca, dan simulasi fisika.
+
+Apa Setelah Fortran?
+Setelah Fortran, muncul banyak bahasa pemrograman lain, seperti:
+✅ COBOL (1959) – Untuk bisnis dan perbankan
+✅ LISP (1958) – Bahasa pemrograman AI pertama
+✅ BASIC (1964) – Memudahkan pemula belajar coding
+✅ C (1972) – Bahasa yang menjadi dasar C++, Java, dan Python
+✅ Python (1991) – Menjadi salah satu bahasa pemrograman paling populer saat ini
+
+Jadi, kalau kita berbicara bahasa pertama yang benar-benar modern, maka Fortran adalah yang pertama di level tinggi.
